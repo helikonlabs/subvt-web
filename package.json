@@ -57,5 +57,9 @@
     "bootstrap": "^5.1.3",
     "normalize.css": "^8.0.1",
     "vanilla-marquee": "^1.1.1"
+  },
+  "allowScripts": {
+    "optipng-bin@7.0.1": true,
+    "mozjpeg@7.1.1": true
   }
 }
